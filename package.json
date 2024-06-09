@@ -1,0 +1,21 @@
+{
+  "name": "voyguysdk",
+  "version": "1.0.0",
+  "description": "SDK for voice-controlled web applications",
+  "main": "voice_control.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "voice",
+    "sdk",
+    "web",
+    "websocket",
+    "speech recognition"
+  ],
+  "author": "Voyguy",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.17.0"
+  }
+}
